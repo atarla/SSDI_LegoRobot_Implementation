@@ -4,7 +4,4 @@
 public interface IRobot {
     public void turnOn();
     public void turnOff();
-    public void setSpeed();
-    public void move();
-    public void turn();
 }
